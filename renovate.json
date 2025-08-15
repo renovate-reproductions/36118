@@ -4,6 +4,7 @@
         "matchPackageNames": ["**"],
         "enabled": false
     }],
+    "postUpdateOptions": ["npmInstallTwice"],
     "lockFileMaintenance": {
       "enabled": true,
       "schedule": null
